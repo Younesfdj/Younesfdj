@@ -6,7 +6,7 @@
 - 👀 I’m interested in Cyber security and Dev
 - 🌱 I’m currently learning Python and java
 - 💭 Ask me about DSA, python, C and java
-- 📫 How to reach me ferradjiyounes69@gmail.com 
+- 📫 How to reach me younes.ferradji@etu.usthb.com
 <br/>
 <br/>
 <br/>
